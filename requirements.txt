@@ -1,0 +1,15 @@
+beautifulsoup4
+requests
+selenium
+webdriver-manager
+youtube-comment-downloader
+Pillow
+Image
+colormath
+counter
+io
+bytesIO
+json
+LabColor
+numpy
+urllib

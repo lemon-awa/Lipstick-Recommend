@@ -1,0 +1,82 @@
+{
+    "pink": {
+        "rgb": [
+            232,
+            116,
+            140
+        ],
+        "url": "https://www.lipink.com/v/vspfiles/images/shop_color_pink.gif"
+    },
+    "red": {
+        "rgb": [
+            216,
+            44,
+            92
+        ],
+        "url": "https://www.lipink.com/v/vspfiles/images/shop_color_pink.gif"
+    },
+    "mauve": {
+        "rgb": [
+            216,
+            140,
+            180
+        ],
+        "url": "https://www.lipink.com/v/vspfiles/images/shop_color_mauve.gif"
+    },
+    "plum": {
+        "rgb": [
+            160,
+            108,
+            124
+        ],
+        "url": "https://www.lipink.com/v/vspfiles/images/shop_color_plum.gif"
+    },
+    "coral": {
+        "rgb": [
+            248,
+            100,
+            116
+        ],
+        "url": "https://www.lipink.com/v/vspfiles/images/shop_color_coral.gif"
+    },
+    "terra cotta": {
+        "rgb": [
+            208,
+            76,
+            44
+        ],
+        "url": "https://www.lipink.com/v/vspfiles/images/shop_color_terra.gif"
+    },
+    "brown": {
+        "rgb": [
+            176,
+            124,
+            100
+        ],
+        "url": "https://www.lipink.com/v/vspfiles/images/shop_color_brown.gif"
+    },
+    "orange": {
+        "rgb": [
+            224,
+            124,
+            92
+        ],
+        "url": "https://www.lipink.com/v/vspfiles/images/shop_color_orange.gif"
+    },
+    "berry": {
+        "rgb": [
+            192,
+            116,
+            124
+        ],
+        "url": "https://www.lipink.com/v/vspfiles/images/shop_color_berry.gif"
+    },
+    "natural": {
+        "rgb": [
+            192,
+            140,
+            132
+        ],
+        "url": "https://www.lipink.com/v/vspfiles/images/shop_color_natural.gif"
+    }
+}
